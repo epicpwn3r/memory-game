@@ -1,0 +1,16 @@
+
+.grid{
+  width: 400px;
+  height: 300px;
+  border: solid black 1px;
+  background-color: lightblue;
+}
+
+img{
+  line-height: 0;
+}
+
+img:hover{
+  opacity: 0.5;
+  box-shadow: -2px 5px 10px black;
+}
